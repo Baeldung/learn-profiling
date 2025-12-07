@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <description>The 'Learn Java Profiling' Course: Analyzing Memory Efficiency</description>
-    <name>analyzing-memory-efficiency</name>
+    <description>The 'Learn Java Profiling' Course: Advanced Profiling and Production</description>
+    <name>advanced-profiling-and-production</name>
 
     <groupId>com.baeldung</groupId>
-    <artifactId>ljp-analyzing-memory-efficiency</artifactId>
+    <artifactId>ljp-advanced-profiling-and-production</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 
