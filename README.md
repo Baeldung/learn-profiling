@@ -1,3 +1,3 @@
-# Learn Java Profiling - Introduction to Profiling
+# Learn Java Profiling - The Profiling Toolset
 
-This is the codebase for Module "Introduction to Profiling" of Learn Java Profiling
+This is the codebase for Module "The Profiling Toolset" of Learn Java Profiling
