@@ -3,11 +3,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <description>The 'Learn Java Profiling' Course: The Profiling Toolset</description>
-    <name>the-profiling-toolset</name>
+    <description>The 'Learn Java Profiling' Course: Analyzing Application Performance</description>
+    <name>analyzing-application-performance</name>
 
     <groupId>com.baeldung</groupId>
-    <artifactId>ljp-the-profiling-toolset</artifactId>
+    <artifactId>ljp-analyzing-application-performance</artifactId>
     <version>1.0.0</version>
     <packaging>pom</packaging>
 

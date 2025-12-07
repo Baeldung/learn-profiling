@@ -1,3 +1,3 @@
-# Learn Java Profiling - The Profiling Toolset
+# Learn Java Profiling - Analyzing Application Performance
 
-This is the codebase for Module "The Profiling Toolset" of Learn Java Profiling
+This is the codebase for Module "Analyzing Application Performance" of Learn Java Profiling
